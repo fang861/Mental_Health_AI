@@ -10,7 +10,7 @@ spring:
         tool-calling:
           enabled: true
     openai:
-      api-key: sk-fpzsuloydpkpwnfxepzpiouqgsiwiazxwmhsawzcgljlwrvz
+      api-key:
       base-url: https://api.siliconflow.cn/v1
       chat:
         model: deepseek-ai/DeepSeek-V3
